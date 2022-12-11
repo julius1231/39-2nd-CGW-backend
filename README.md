@@ -1,4 +1,4 @@
-# Project Name : CGW
+# Project Name : 🎫CGW
 
 - 국내 최대 영화 사이트 [CGV](https://www.cgv.co.kr/) 클론 프로젝트
 - 짧은 프로젝트 기간동안 개발에 집중해야 하므로 디자인/예매 부분만 클론했습니다.
@@ -9,28 +9,42 @@
 - 개발기간 : 2020/11/28 ~ 2020/12/9
 - 개발 인원 : 프론트엔드 4명, 백엔드 3명
 
-<!-- ### 프로젝트 선정이유
+<img width="1386px" alt="CGW main" align="center" src="https://user-images.githubusercontent.com/110847597/206863973-b5dc727d-037f-4ce5-9c9e-feb21622a4bc.gif"/>
+
+<!-- 
+### 프로젝트 선정이유
 
 - 이 사이트는,
 -->
 
-### 데모 영상(이미지 클릭)
+### 📼 데모 영상
 
-*유투브 영상 링크나 캡쳐 이미지 넣어주세요.*
+- <a href="https://vimeo.com/779910229">📎 시연 영상</a>
 
-## 적용 기술 및 구현 기능
+### 📌 CGW Features
+
+- 🔵 `종범 FE` - 좌석 선택
+- 🔵 `지영 FE` - 소셜 로그인& 지도 API Map 기능
+- 🔵 `다빈 FE` - 영화 예매, 영화 검색
+- 🔵 `혜원 FE` - 결제, 예매내역
+- 🟢 `한솔 BE` - 예매페이지 API, AWS
+- 🟢 `창현 BE` - 카카오결제 API, 주문 API
+- 🟢 `상원 BE` - 카카오로그인 API, 예매페이지 API
 
 ### 적용 기술
+- Front_End : `JavaScript`, `React`, `Styled-components`
+- Back-End : `JavaScript`, `Node.js`, `express`, `Axios.js`, `My SQL`
 
-> - Back-End : JavaScript, Node.js, express, Axios.js, Bcrypt, JWT, My SQL
-> - Common : KakaoPay API, RESTful API
+### DB Modeling
+
+<img width="1386" alt="CGW DB" src="https://user-images.githubusercontent.com/110847597/206862017-45340383-0d5d-49d2-aa46-4f8ff1ccf7e7.png">
 
 ### 구현 기능
 
-#### 공통
-
-- 일반 회원가입 / 로그인
-- 카카오페이
+1. 영화 예매, 영화 검색 
+1. 좌석 선택
+1. 소셜 로그인& 지도 API Map 기능
+1. 카카오톡 결제, 예매내역
 
 <!--
 #### 메인페이지
