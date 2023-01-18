@@ -33,7 +33,7 @@
 
 ### 적용 기술
 - Front_End : `JavaScript`, `React`, `Styled-components`
-- Back-End : `JavaScript`, `Node.js`, `express`, `Axios`, `My SQL`
+- Back-End : `JavaScript`, `Node.js`, `express`, `Axios`, `MySQL`
 
 ### DB Modeling
 
